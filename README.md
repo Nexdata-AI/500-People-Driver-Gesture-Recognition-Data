@@ -13,7 +13,7 @@ male, female
 ## Nationality distribution
 Vietnam
 ## Age distribution
-18~45 years old, 46~60 years old, over 60 years old
+18-45 years old, 46-60 years old, over 60 years old
 ## Collecting environment
 in-car camera shooting scene
 ## Data diversity
